@@ -2,7 +2,7 @@
 
 ### Technical entrepreneur, agile team lead, hacker & micro-angel
 
-Journeyman agile dev, mostly dotnet, cloud, micro-services & web. Passionate about good code, good requirements,  good tests and happy customers. Maintainer of the open source fluent testing library  *Draki* - Fluent web automation  for C#. 
+Journeyman agile dev, mostly dotnet, cloud, micro-services & web. Passionate about good code, good requirements,  good tests and happy customers. Maintainer of the open source fluent testing library  [https://github.com/goblinfactory/Draki][*Draki*] - Fluent web automation  for C#. 
 
 Involved community dev, Camdug (Cambridge Developers User Group) founder and organiser, 2004 to 2015. 
 
