@@ -1,4 +1,6 @@
-# Technical entrepreneur, agile team lead, hacker & micro-angel
+# Speaker bio for London Selenium
+
+## Technical entrepreneur, agile team lead, hacker & micro-angel
 
 Journeyman agile dev, mostly dotnet, cloud, micro-services & web. Passionate about good code, good requirements,  good tests and happy customers. Maintainer of the open source fluent testing library  *Draki* - Fluent web automation  for C#. 
 
