@@ -14,9 +14,9 @@ Alan alternates between contracting and working or investing in startups.
 
 - xbox gamer handle : `goblinfactory` 
 - twitter : `@snowcode`
-- London Selenium meetup group organiser : https://www.meetup.com/London-Selenium-Meetup/
+- London Selenium meetup group organiser : www.meetup.com/London-Selenium-Meetup/
 - GitHub : https://github.com/goblinfactory/Draki
-- linkedin : https://www.linkedin.com/in/goblinfactory/
+- linkedin : www.linkedin.com/in/goblinfactory/
 - snowcode : www.snowcode.com
 - motorbikes : `1200gs adventure` and a `Husky TE 449` (ping me if you want to meet up for geek bike ride) 
 
